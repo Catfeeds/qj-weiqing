@@ -1,0 +1,76 @@
+2018-06-22 09:56:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_4d4352811bcd]]></ToUserName>
+<FromUserName><![CDATA[oRzoq0zAAlWFmWdoHggkogXLjcbQ]]></FromUserName>
+<CreateTime>1529632826</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[天气]]></Content>
+<MsgId>6569722963013925245</MsgId>
+</xml>
+
+2018-06-22 09:56:50 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_4d4352811bcd',
+    'fromusername' => 'oRzoq0zAAlWFmWdoHggkogXLjcbQ',
+    'createtime' => '1529632826',
+    'msgtype' => 'text',
+    'content' => '天气',
+    'msgid' => '6569722963013925245',
+    'from' => 'oRzoq0zAAlWFmWdoHggkogXLjcbQ',
+    'to' => 'gh_4d4352811bcd',
+    'time' => '1529632826',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2018-06-22 09:56:50 response :
+------------
+
+2018-06-22 09:57:11 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_4d4352811bcd]]></ToUserName>
+<FromUserName><![CDATA[oRzoq0zAAlWFmWdoHggkogXLjcbQ]]></FromUserName>
+<CreateTime>1529632847</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6569723053208238475</MsgId>
+</xml>
+
+2018-06-22 09:57:11 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_4d4352811bcd',
+    'fromusername' => 'oRzoq0zAAlWFmWdoHggkogXLjcbQ',
+    'createtime' => '1529632847',
+    'msgtype' => 'text',
+    'content' => '你好',
+    'msgid' => '6569723053208238475',
+    'from' => 'oRzoq0zAAlWFmWdoHggkogXLjcbQ',
+    'to' => 'gh_4d4352811bcd',
+    'time' => '1529632847',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2018-06-22 09:57:11 response :
+------------
+
